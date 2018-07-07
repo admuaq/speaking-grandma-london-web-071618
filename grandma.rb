@@ -7,7 +7,7 @@ def speak_to_grandma (response)
   elsif (response == "I LOVE YOU GRANDMA!")
     puts 'I LOVE YOU TOO PUMPKIN!'
   
-  else (response)
+  else
     puts "HUH?! SPEAK UP, SONNY!"
   end
   
