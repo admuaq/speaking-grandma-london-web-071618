@@ -9,6 +9,7 @@ def speak_to_grandma (response)
   
   else
     puts "HUH?! SPEAK UP, SONNY!"
+    
   end
   
 # Whatever you say to grandma, she should respond with
