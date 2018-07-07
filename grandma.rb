@@ -5,7 +5,7 @@ def speak_to_grandma (response)
     return "NO, NOT SINCE 1938!"
     
   elsif (response == "I LOVE YOU GRANDMA!")
-    return 'I LOVE YOU TOO PUMPKIN!'
+    return "I LOVE YOU TOO PUMPKIN!"
   
   else
     return "HUH?! SPEAK UP, SONNY!"
